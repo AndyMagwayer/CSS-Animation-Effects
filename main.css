@@ -52,11 +52,10 @@ body{
 
 p{
     list-style: none;
-    color: #fff;
-    width: 40px;
+    color: rgb(70, 181, 255);
     max-width: 40px;
     text-decoration: none;
-
+   
 }
 
 p:hover{
