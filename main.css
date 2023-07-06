@@ -49,3 +49,17 @@ body{
         
     }
 }
+
+p{
+    list-style: none;
+    color: #fff;
+    width: 40px;
+    max-width: 40px;
+    text-decoration: none;
+
+}
+
+p:hover{
+    cursor: pointer;
+    color: #00f376;
+}
